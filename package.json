@@ -11,6 +11,7 @@
     "require-dir": "^1.2.0"
   },
   "scripts": {
-    "dev": "nodemon server"
+    "dev": "nodemon server",
+    "start": "node server"
   }
 }
